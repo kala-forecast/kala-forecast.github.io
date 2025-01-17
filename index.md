@@ -19,9 +19,20 @@ Kālā Forecast intends to provide a user-friendly and integrated framework for 
 
 ## User Guide
 
-This section provides a walkthrough of Kālā Forecast's features and its capabilities. It includes a brief description for its different usages and has an accompanying visual format that demonstrates them. 
+This section provides a walkthrough of Kālā Forecast's features and capabilities. It includes a brief description for its different usages and has an accompanying visual format that demonstrates them. 
 
-** Team 
+...
+
+## Developer Guide
+
+...
+
+
+## Development History 
+
+...
+
+## Team 
 1. [Carson Fu](https://carsonfu.github.io/)
 2. [Anastasia del Banco](https://ana-del-bench.github.io/)
 3. [Kenneth de Guzman](https://k-deguz.github.io/)
