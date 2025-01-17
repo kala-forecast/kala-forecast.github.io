@@ -1,17 +1,25 @@
 # Kālā Forecast
 
-## Table of contents
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        ## Table of contents
 
-* [Overview](#overview)
-* [Deployment](#deployment)
-* [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
-* [Developer Guide](#developer-guide)
-* [Development History](#development-history)
-* [Continuous Integration](#continuous-integration)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements)
-* [Team](#team)
+        * [Overview](#overview)
+        * [Deployment](#deployment)
+        * [User Guide](#user-guide)
+        * [Community Feedback](#community-feedback)
+        * [Developer Guide](#developer-guide)
+        * [Development History](#development-history)
+        * [Continuous Integration](#continuous-integration)
+        * [Walkthrough videos](#walkthrough-videos)
+        * [Example enhancements](#example-enhancements)
+        * [Team](#team)
+
+    </div>
+
+    <img src="./img/maui-sunrise.jpeg" alt="Maui Sunrise" width="200px">
+
+</div>
 
 ## Overview
 
