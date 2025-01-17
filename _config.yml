@@ -1,3 +1,4 @@
 remote_theme: pages-themes/cayman@v0.2.0
+description: Helping you plan with precision to sustain your financial vision!
 plugins:
 - jekyll-remote-theme 
