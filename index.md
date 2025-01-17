@@ -1,7 +1,7 @@
 # Kālā Forecast
 
 <div style="width: 80%; margin: 0 auto; text-align: center;">
-    <img src="./img/maui-sunrise.jpeg" alt="Maui Sunrise">
+    <img src="./img/financial-meeting.jpeg" alt="Financial Meeting">
 </div>
 
 ## Table of contents
