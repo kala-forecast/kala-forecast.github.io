@@ -1,7 +1,7 @@
-# Kālā Forecast
+<!-- # Kālā Forecast -->
 
 <div style="width: 80%; margin: 0 auto; text-align: center;">
-    <img src="./img/financial-meeting.jpeg" alt="Financial Meeting">
+    <img src="./img/financial-meeting.jpeg" alt="Financial Meeting" style="max-height: 250px;">
 </div>
 
 ## Table of contents
