@@ -1,4 +1,4 @@
-# Kālā Forecast
+<!-- # Kālā Forecast -->
 
 ## Table of contents
 
@@ -12,6 +12,10 @@
 * [Walkthrough videos](#walkthrough-videos)
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
+
+<div style="width: 80%; margin: 0 auto; text-align: center;">
+    <img src="./img/financial-meeting.jpeg" alt="Financial Meeting" style="max-height: 300px;">
+</div>
 
 ## Overview
 
