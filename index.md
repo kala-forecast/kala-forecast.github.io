@@ -1,7 +1,8 @@
 # Kālā Forecast
 
-<div style="display: flex; justify-content: space-between;">
-<div>
+<div style="float:right; margin-left: 20px;">
+    <img src="./img/maui-sunrise.jpeg" alt="Maui Sunrise" width="200px">
+</div>
 
 ## Table of contents
 
@@ -15,12 +16,6 @@
 * [Walkthrough videos](#walkthrough-videos)
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
-
-</div>
-<img src="./img/maui-sunrise.jpeg" alt="Maui Sunrise" width="200px">
-</div>
-
-
 
 ## Overview
 
