@@ -1,6 +1,6 @@
 # Kālā Forecast
 
-<div style="float:right; height: 100%; width: 200px; display: flex; justify-content: flex-start;">
+<div style="width: 80%; margin: 0 auto; text-align: center;">
     <img src="./img/maui-sunrise.jpeg" alt="Maui Sunrise" width="200px">
 </div>
 
