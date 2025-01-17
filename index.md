@@ -22,12 +22,12 @@ Kālā Forecast intends to provide a user-friendly and integrated framework for 
 This section provides a walkthrough of Kālā Forecast's features and its capabilities. It includes a brief description for its different usages and has an accompanying visual format that demonstrates them. 
 
 ** Team 
-[Carson Fu](https://carsonfu.github.io/)
-[Anastasia del Banco](https://ana-del-bench.github.io/)
-[Kenneth de Guzman](https://k-deguz.github.io/)
-[Hoopuiwa Perry](https://hoopuiwa.github.io/)
-[Xingyao He](https://xingyao03.github.io/)
-[Alyssa Greenwell](https://alyssa-greenwell.github.io/)
-[Robert Maddox](https://robertmaddoxhi.github.io/)
-[Adam Bell](https://belladam.github.io/)
+1. [Carson Fu](https://carsonfu.github.io/)
+2. [Anastasia del Banco](https://ana-del-bench.github.io/)
+3. [Kenneth de Guzman](https://k-deguz.github.io/)
+4. [Hoopuiwa Perry](https://hoopuiwa.github.io/)
+5. [Xingyao He](https://xingyao03.github.io/)
+6. [Alyssa Greenwell](https://alyssa-greenwell.github.io/)
+7. [Robert Maddox](https://robertmaddoxhi.github.io/)
+8. [Adam Bell](https://belladam.github.io/)
 
