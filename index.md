@@ -46,3 +46,8 @@ This section provides a walkthrough of Kālā Forecast's features and capabiliti
 7. [Robert Maddox](https://robertmaddoxhi.github.io/)
 8. [Adam Bell](https://belladam.github.io/)
 
+> Team Contract: [View](https://docs.google.com/document/d/11B2C8RcwiY21vFOJFAc407h_RT3uLW6jFtNIv5lmNeg/edit?tab=t.0)
+
+## Organization
+
+> Github Organization: [View](https://github.com/kala-forecast)
