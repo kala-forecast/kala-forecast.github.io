@@ -5,12 +5,8 @@
 * [Overview](#overview)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
-* [Continuous Integration](#continuous-integration)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements)
 * [Team](#team)
 
 <div style="width: 80%; margin: 0 auto; text-align: center;">
@@ -20,6 +16,11 @@
 ## Overview
 
 Kālā Forecast intends to provide a user-friendly and integrated framework for fiscal sustainability models. This web based platform will provide information on sustainability models, stress tests, financial compilations, and modeled scenarios, as well a dashboard that displays forecasting outcome charts. This platform strives to be easy to use for all, providing a customized user experience to each role within the company that best suits the needs of the individual.
+
+## Deployment
+
+Kālā Forecast is temporarily deployed [here](http://64.23.186.154/). 
+A domain name acccurately reflecting the ideologies of Kālā Forecast will be reserved in the future. 
 
 ## User Guide
 
