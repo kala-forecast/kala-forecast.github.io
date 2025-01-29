@@ -6,7 +6,6 @@
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
-* [Development History](#development-history)
 * [Team](#team)
 
 <div style="width: 80%; margin: 0 auto; text-align: center;">
@@ -26,16 +25,14 @@ A domain name acccurately reflecting the ideologies of Kālā Forecast will be r
 
 This section provides a walkthrough of Kālā Forecast's features and capabilities. It includes a brief description for its different usages and has an accompanying visual format that demonstrates them. 
 
-...
-
 ## Developer Guide
 
-...
+# Milestones:
 
+[Milestone 1](https://github.com/orgs/kala-forecast/projects/3/views/1)
 
-## Development History 
+[Milestone 2](https://github.com/orgs/kala-forecast/projects/5)
 
-...
 
 ## Team 
 1. [Carson Fu](https://carsonfu.github.io/)
