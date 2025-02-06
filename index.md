@@ -52,4 +52,4 @@ This section provides a walkthrough of Kālā Forecast's features and capabiliti
 
 ## CI Status
 
-<img src="https://github.com/kala-forecast/kalaforecast/workflows/CI/badge.svg" alt="CI Badge">
+<img src="https://github.com/kala-forecast/kalaforecast/workflows/ci-meteor-application-template-production/badge.svg" alt="CI Badge">
