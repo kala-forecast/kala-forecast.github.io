@@ -49,3 +49,7 @@ This section provides a walkthrough of Kālā Forecast's features and capabiliti
 ## Organization
 
 > Github Organization: [View](https://github.com/kala-forecast)
+
+## CI Status
+
+<img src="https://github.com/kala-forecast/kalaforecast/workflows/CI/badge.svg" alt="CI Badge">
