@@ -35,14 +35,13 @@ This section provides a walkthrough of Kālā Forecast's features and capabiliti
 
 
 ## Team 
-1. [Carson Fu](https://carsonfu.github.io/)
-2. [Anastasia del Banco](https://ana-del-bench.github.io/)
-3. [Kenneth de Guzman](https://k-deguz.github.io/)
-4. [Hoopuiwa Perry](https://hoopuiwa.github.io/)
-5. [Xingyao He](https://xingyao03.github.io/)
-6. [Alyssa Greenwell](https://alyssa-greenwell.github.io/)
-7. [Robert Maddox](https://robertmaddoxhi.github.io/)
-8. [Adam Bell](https://belladam.github.io/)
+1. [Anastasia del Banco](https://ana-del-bench.github.io/)
+2. [Kenneth de Guzman](https://k-deguz.github.io/)
+3. [Hoopuiwa Perry](https://hoopuiwa.github.io/)
+4. [Xingyao He](https://xingyao03.github.io/)
+5. [Alyssa Greenwell](https://alyssa-greenwell.github.io/)
+6. [Robert Maddox](https://robertmaddoxhi.github.io/)
+7. [Adam Bell](https://belladam.github.io/)
 
 > Team Contract: [View](https://docs.google.com/document/d/11B2C8RcwiY21vFOJFAc407h_RT3uLW6jFtNIv5lmNeg/edit?tab=t.0)
 
