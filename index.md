@@ -40,6 +40,10 @@ This section provides a walkthrough of Kālā Forecast's features and capabiliti
 ### View Workpapers
 <img src="img/viewp.png">
 
+### Graph View
+<img src="img/graph.png">
+
+
 ## Developer Guide
 
 # Milestones:
