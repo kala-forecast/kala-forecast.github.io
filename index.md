@@ -18,8 +18,7 @@ Kālā Forecast intends to provide a user-friendly and integrated framework for 
 
 ## Deployment
 
-Kālā Forecast is temporarily deployed [here](http://64.23.186.154/). 
-A domain name acccurately reflecting the ideologies of Kālā Forecast will be reserved in the future. 
+Kālā Forecast is deployed [here](http://kalaforecast.org/). 
 
 ## User Guide
 
@@ -27,6 +26,7 @@ This section provides a walkthrough of Kālā Forecast's features and capabiliti
 
 ### Landing Page
 <img src="img/landing.png">
+Welcome to our platform! Here, you’ll find an easy and intuitive alternative to excel sheets.
 
 ### Stress Test Page
 <img src="img/stress.png">
