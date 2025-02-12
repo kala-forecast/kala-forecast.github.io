@@ -1,4 +1,4 @@
-<!-- # Kālā Forecast -->
+# Kālā Forecast
 
 ## Table of contents
 
@@ -24,6 +24,9 @@ A domain name acccurately reflecting the ideologies of Kālā Forecast will be r
 ## User Guide
 
 This section provides a walkthrough of Kālā Forecast's features and capabilities. It includes a brief description for its different usages and has an accompanying visual format that demonstrates them. 
+
+### Landing Page
+<img src="img/landing.png">
 
 ## Developer Guide
 
