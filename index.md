@@ -30,27 +30,40 @@ Welcome to our platform! Here, you’ll find an easy and intuitive alternative t
 
 ### Stress Test Page
 <img src="img/stress.png">
+This page allows users to run stress tests on the audited data within the databse.
 
 ### Sustainability Model
 <img src="img/sustain.png">
 
 ### Edit Workpapers
 <img src="img/editwp.png">
+This page allows the modification of workpapers.
 
 ### View Workpapers
 <img src="img/viewp.png">
+View current workpapers.
 
 ### Graph View
 <img src="img/graph.png">
-
 
 ## Developer Guide
 
 # Milestones:
 
 [Milestone 1](https://github.com/orgs/kala-forecast/projects/3/views/1)
+Main Goals: Establish mockups for the application that features pages and 
+functions that will definitely appear in the final build.
 
 [Milestone 2](https://github.com/orgs/kala-forecast/projects/5)
+Main Goals: Build upon mockups and begin deployment.
+
+[Milestone 3](https://github.com/orgs/kala-forecast/projects/6/views/1)
+Main Goals: Start working on the back-end. How the application will
+handle calculations, interactions, databases, ie.
+
+[Milestone 4] TBD
+Main Goals: Flesh out back-end. Begin ensuring functionality of 
+database entries and forecast calculation.
 
 
 ## Team 
